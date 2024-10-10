@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
-from scheduling import Process, fcfs, sjf, srtf, priority_non_preemptive, priority_preemptive, round_robin
+from Scheduling import Process, fcfs, sjf, srtf, priority_non_preemptive, priority_preemptive, round_robin
 from datetime import datetime
 
 def draw_gantt_chart(processes, title):
