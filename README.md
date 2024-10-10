@@ -1,1 +1,3 @@
 # GUI_Scheduling_algorithms
+## Deployed app can be viewed below...
+[Click here](https://jalpatel11-gui-scheduling-algorithms-app-yfyzch.streamlit.app/)
